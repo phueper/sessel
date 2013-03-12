@@ -1,0 +1,13 @@
+[ {
+	"name" : "MainPage",
+	"link" : "#/",
+	"title" : "Home"
+}, {
+	"name" : "AboutPage",
+	"link" : "#/about",
+	"title" : "About"
+}, {
+	"name" : "ContactPage",
+	"link" : "#/contact",
+	"title" : "Contact"
+} ]

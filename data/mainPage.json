@@ -1,0 +1,13 @@
+[ {
+	"id" : "welcome",
+	"type" : "textBlockLarge",
+	"title" : "Willkommen bei sessel!",
+	"text" : "Hier steht die Beschreibung was sessel ist, welche Idee dahinter steckt usw.",
+	"moreButtonText" : "Mehr erfahren"
+}, {
+    "id" : "test",
+    "type" : "textBlockSmall",
+    "title" : "Test",
+    "text" : "Test",
+    "moreButtonText" : "Details..."
+}]
